@@ -1,0 +1,19 @@
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+
+# Carpetas de IDEs (NetBeans, IntelliJ, Eclipse)
+nbproject/
+build/
+dist/
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+bin/
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
