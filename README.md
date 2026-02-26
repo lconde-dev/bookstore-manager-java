@@ -34,6 +34,6 @@ The project follows a modular package structure:
 ```
 2. Open the project: Launch your preferred IDE (NetBeans, IntelliJ, or Eclipse) and import the root folder.
 
-3. Run: Execute the OblProg2.java file to start the application.
+3. Run: Execute the Obl2Prog2.java file to start the application.
 
 Developed by Lucas Conde as part of the Systems Engineering degree at ORT Uruguay.
